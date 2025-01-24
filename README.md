@@ -2,7 +2,7 @@
 
 ## Objective
   
-By gaining hands-on experience and following best practices, you’ll develop a strong understanding of how to efficiently use a help desk ticketing system to improve IT support and user satisfaction.
+To effectively use a ticketing system, I should practice logging tickets, assigning them, troubleshooting issues, documenting resolutions, and analyzing reports. My best practices include clear communication, prioritization, thorough documentation, and leveraging automation to improve efficiency and enhance user satisfaction.
 
 ### Skills Learned
 
