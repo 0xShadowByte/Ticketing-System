@@ -6,7 +6,8 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 
 ### Skills Learned
 
--
+- Kanban board focuses on continuous work flow without the constraint of sprints and is often used for teams managing ongoing tasks, bug fixes, or support tickets.
+- Scrum board is designed around sprints and includes sprint planning, sprint backlogs, and burndown charts to track progress.
 - 
 
 ### Tools Used
