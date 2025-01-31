@@ -8,7 +8,8 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 
 - Kanban board focuses on continuous work flow without the constraint of sprints and is often used for teams managing ongoing tasks, bug fixes, or support tickets.
 - Scrum board is designed around sprints and includes sprint planning, sprint backlogs, and burndown charts to track progress.
-- Learned how to create Epics, User Stories, 
+- Learned how to create Epics, User Stories, and Bugs
+- 
 
 ### Tools Used
 
@@ -75,3 +76,33 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 *Ref 15: Click Add > Child issue > input what needs to be done for subtask*
 
 ![image](https://github.com/user-attachments/assets/ceb3df65-977f-495e-9e61-2a9136b34ff5)
+
+*Ref 16: Now we go back to the logs to assign Epics to the stories. You can click and drag them to their appropiate epics or click the boxes to the left of the stories if you need to drag multiple to the same epic*
+
+![image](https://github.com/user-attachments/assets/f6aa862d-6e2d-4c07-b5c7-4a5edb5c94e8)
+
+*Ref 17: Creating labels for each epic so they're catgorized seperately. Shopping cart, cancelling orders, shopping interface and product search gets the "shopping" label. User account and loyalities gets "user-admin" and shopping location gets "shop-info"*
+
+![image](https://github.com/user-attachments/assets/95c4f666-2285-491d-8bd9-d9b35bb20b75)
+
+*Ref 18: Create Version, enter the information required for the field for name, start and end date, and description. If you're having a hard time finding the release tap, click on add view > more features > check if the "release" tap option is enabled*
+
+![image](https://github.com/user-attachments/assets/e87bb937-adbb-4666-8937-b72eafdf5e87)
+
+*Ref 19: Enable version on the drop down menu*
+
+![image](https://github.com/user-attachments/assets/c1bac9c3-f04b-4759-b7cc-adadb4bd7958)
+
+*Ref 20: Dragging related epics to version 1*
+
+![image](https://github.com/user-attachments/assets/6bd97315-73b4-4cc7-8c4b-ea4ab974e724)
+
+*Ref 21: Creating Version 2.0 and adding user accounts and product searches to it*
+
+![image](https://github.com/user-attachments/assets/889d602e-d18d-4b9c-a788-c4b6f6b783eb)
+
+*Ref 22: Creating Version 3 and doing the same as before for the last two epics loyalties program and shopping location interface*
+
+![image](https://github.com/user-attachments/assets/bf493e21-e487-4385-b075-3dc5a9e396b8)
+
+
