@@ -56,7 +56,22 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 
 ![image](https://github.com/user-attachments/assets/da3ae2aa-c25e-43c2-a719-b8c7345fa455)
 
+*Ref 11: Creating a user story on Jira for shopping cart epic*
 
+![image](https://github.com/user-attachments/assets/6bf7a99f-f422-489b-b0f0-39850e4f7df7)
 
+*Ref 12: Once the story was created it shows up as a backlog under the shopping cart epic.*
 
+![image](https://github.com/user-attachments/assets/dfb08ad7-bcc9-4761-a222-5b6036bb3d3f)
 
+*Ref 13: Creating another story with the shortcut of clicking the "+" button belong the backlog box. It's a quick way of adding stories but need to go back to add the epic it belongs to at a later time*
+
+![image](https://github.com/user-attachments/assets/708293fe-cfdc-4b67-a131-a45c6a8aca09)
+
+*Ref 14: Creating several entries for Bugs to be fixed*
+
+![image](https://github.com/user-attachments/assets/47864201-d051-4523-a515-742299923273)
+
+*Ref 15: Click Add > Child issue > input what needs to be done for subtask*
+
+![image](https://github.com/user-attachments/assets/ceb3df65-977f-495e-9e61-2a9136b34ff5)
