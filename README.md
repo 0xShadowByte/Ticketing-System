@@ -8,8 +8,13 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 
 - Kanban board focuses on continuous work flow without the constraint of sprints and is often used for teams managing ongoing tasks, bug fixes, or support tickets.
 - Scrum board is designed around sprints and includes sprint planning, sprint backlogs, and burndown charts to track progress.
-- Learned how to create Epics, User Stories, and Bugs
-- 
+- Navigating your project inside of Jira
+- Learned how to create epics, user stories, bugs, and subtasks in into backlog
+- Assigning epics to issues
+- Use releases to track versions in the project
+- Grooming the backlog, what features must be they have so the product can be used by the users
+- Cleaning up the backlog, is every issue assigned to an epic
+- Setting up a sprint
 
 ### Tools Used
 
@@ -104,5 +109,62 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 *Ref 22: Creating Version 3 and doing the same as before for the last two epics loyalties program and shopping location interface*
 
 ![image](https://github.com/user-attachments/assets/bf493e21-e487-4385-b075-3dc5a9e396b8)
+
+*Ref 23: Drag and drop the issues in the backlog above or below the appropriate issue, so it's ranked and prioritized appropriately. Priortize issues UPWARD. Compare issues to those above it, and prioritize it accordingly. This is grooming the backlog.*
+
+![image](https://github.com/user-attachments/assets/dc021fb8-c470-444a-bf50-b718f3d8149d)
+
+*Ref 24: An example of grooming the backlog, by prioritizing items on top over the ones on the bottom*
+
+![image](https://github.com/user-attachments/assets/552d8d83-5b7b-494b-aec7-152c9acbda43)
+
+*Ref 25: Filtering issues without epics, makes sure that all features aligns with the project goal*
+
+![image](https://github.com/user-attachments/assets/4108fc45-6587-4b50-9bbf-43780e1a0889)
+
+*Ref 26: Click on the "create sprint" button to make a new sprint for the project*
+
+![image](https://github.com/user-attachments/assets/061a7152-5fea-4820-a925-d32446e44223)
+
+*Ref 27: This is where "story points" comes into play. The lower the number the simpler the task is and vice versa, the higher the number the more difficult and time consuming it is*
+
+![image](https://github.com/user-attachments/assets/5ad90023-b2f0-47b9-81b7-f34b078e1079)
+
+*Ref 28: In this senario the epics have been assigned their story points and have reached the maximum amount, 34, to be completed within a two week period*
+
+![image](https://github.com/user-attachments/assets/5ecedcb0-8bbf-4b6d-9b8d-4b1b56b3d200)
+
+*Ref 29: Checked boxes on epics with scores and the bugs and dragged them into the sprint box*
+
+![image](https://github.com/user-attachments/assets/0af1cc28-2fd2-49fe-8f2a-3ecab3969d6a)
+
+*Ref 30: Assigning each task in the sprint to myself, for the example. In reality, its best to assign a few task to each member of the team to reduce the work load*
+
+![image](https://github.com/user-attachments/assets/23c00bb5-7f95-46c9-828f-9ff714485962)
+
+*Ref 31: Click the "start sprint" button to start it. From there we change the duration to custom, in real life situation its normal to have it set at 2 weeks, start and end date would be 1/30/25 with a 45 minute time limit*
+
+![image](https://github.com/user-attachments/assets/2b9ec1c2-66d7-40c6-987a-924dae8a7d05)
+
+*Ref 32: A sample Sprint broad has been generated for us with three columns; to do, in progress and done. Normally in real life situation you'll want to customize the sprint depending on the project*
+
+![image](https://github.com/user-attachments/assets/fdffee1b-a48c-4685-bbfa-c63281f843ca)
+
+*Ref 33: Three dots on the top right, click configure board*
+
+![image](https://github.com/user-attachments/assets/fa76c47b-90ff-40f4-b345-c541def522e0)
+
+*Ref 34: Added a fourth column "verify". At first there was only three status available so you need to create a new one for verify in order to save the changes. Click on manage workflow to add "verify" workflow*
+
+![image](https://github.com/user-attachments/assets/e21e3430-f916-4dc9-85c8-dfcbee0a5573)
+
+*Ref 35: Example of how the board would look like w/ the task in eithe of the columns*
+
+![image](https://github.com/user-attachments/assets/61e7b752-e4dc-45bf-a38f-e1964599fab8)
+
+*Ref 36: Pull up the reports overview tab and click on sprint burndown chart. In a real world cases, this graph would be different but for demonstation purposes to see what its like to move the stories through the columns from to do to done*
+
+![image](https://github.com/user-attachments/assets/9f1fb4a9-44a2-4f99-ac8c-1f69bfc66e19)
+
 
 
