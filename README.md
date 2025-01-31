@@ -14,7 +14,7 @@ To effectively use a ticketing system, I should practice logging tickets, assign
 - Use releases to track versions in the project
 - Grooming the backlog, what features must be they have so the product can be used by the users
 - Cleaning up the backlog, is every issue assigned to an epic
-- Setting up a sprint
+- Setting up a sprint and generating a sprint graph
 
 ### Tools Used
 
